@@ -63,6 +63,11 @@ This system addresses these issues by enforcing biometric authentication for all
 ### Attendance Fingerprint Capturing
 <img width="658" height="666" alt="image" src="https://github.com/user-attachments/assets/4aee843a-d697-4176-87a1-ccf4213b759d" />
 
+
+### Staff Clocking IN
+<img width="594" height="327" alt="image" src="https://github.com/user-attachments/assets/8f501434-9e4b-4eab-8917-7a0d7206dd9a" />
+
+
 ---
 
 ## Tech Stack
